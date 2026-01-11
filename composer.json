@@ -1,0 +1,17 @@
+{
+    "name": "my/library",
+    "description": "ini my bini library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "My\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aji",
+            "email": "mancode700@gmail.com"
+        }
+    ],
+    "require": {}
+}
